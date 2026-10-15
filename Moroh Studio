@@ -1,0 +1,44 @@
+✦
+Morph Studio WEB BETA
+3D Creator · Browser prototype
+Bring your characters to life.
+Test the 3D editor, art-style looks, color fills, and expression controls right in your browser.
+No Apple signing needed
+Workspace
+✦ Create
+01
+◈ 3D Editor
+02
+☺ Face Test
+03
+⇩ Export
+04
+
+Local preview mode
+This prototype does not send your artwork anywhere. AI generation and iPhone TrueDepth tracking require the next development phase.
+3D Preview
+Drag to rotate · Pinch to zoom
+
+DEMO CHARACTER
+LIVE 3D
+Drag to orbit · Use two fingers to zoom · Select parts in the panel
+↻ Reset demo
+↑ Import model
+Demo mascot loaded. Select a part to recolor it.
+Pick an object in the panel on the right, then tap a color. Color changes affect the interactive 3D scene.
+Save preview image
+Center model
+Properties & Materials
+Art style preview
+2D Cartoon / ToonClay / Stop MotionFabric / PuppetVinyl ToyRobot / Metal
+This adjusts material appearance on the sample model; it doesn't automatically detect texture or restructure geometry.
+Separate objects
+Fill selected object
+Selected: Body
+Custom color
+
+Reset colors
+
+Feature status
+Color fill works on existing separate meshes. AI object separation, automatic rigging, camera face capture, and cloud generation are coming later.
+Morph Studio Web Prototype · Built for early interface testing · No account, paid service, or camera access needed.
